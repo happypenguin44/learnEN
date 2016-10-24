@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Individual" transform="translate(-696.000000, -561.000000)" fill="#1ABC9C">
+            <g id="Group" transform="translate(531.000000, 231.000000)">
+                <g id="completed" transform="translate(165.000000, 330.000000)">
+                    <path d="M0,24 C0,37.248 10.752,48 24,48 C37.248,48 48,37.248 48,24 C48,10.752 37.248,0 24,0 C10.752,0 0,10.752 0,24 Z M8.58269698,25.5870698 C7.80295946,24.8073323 7.80736183,23.5387256 8.58637051,22.759717 L9.13934413,22.2067433 C9.92111048,21.424977 11.1884124,21.4230204 11.9776145,22.2100242 L18.4657739,28.6801107 C18.8551807,29.0684329 19.4870301,29.0670574 19.8849461,28.6691414 L35.972636,12.5814514 C36.7536889,11.8003986 38.0233618,11.8082489 38.8023705,12.5927824 L39.3553441,13.1496779 C40.1371105,13.9369886 40.1361082,15.2099793 39.353621,15.9924665 L20.5880936,34.7579938 C19.8053756,35.5407118 18.5425808,35.5469536 17.7590177,34.7633905 L8.58269698,25.5870698 Z" id="Shape-Copy-4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

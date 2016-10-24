@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="121px" height="60px" viewBox="0 0 121 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
+    <title>Home active</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <rect id="Rectangle-35-Copy" fill="#2980B9" x="0" y="0" width="121" height="60"></rect>
+            <g id="Home-+-Fill-1" stroke-width="1" transform="translate(20.000000, 20.000000)" fill="#FFFFFF">
+                <text id="Home" font-family="Lato-Regular, Lato" font-size="18" font-weight="normal">
+                    <tspan x="33" y="18">Home</tspan>
+                </text>
+                <path d="M8.64378077,13.3961468 C8.64378077,13.0636416 8.91253497,12.7948874 9.24379014,12.7948874 L12.8463464,12.7948874 C13.1788516,12.7948874 13.4476058,13.0636416 13.4476058,13.3961468 L13.4476058,19.3999906 C13.4476058,19.7312458 13.71636,20 14.0476152,20 L18.2514309,20 C18.9139412,20 19.4514496,19.4624916 19.4514496,18.7999812 L19.4514496,10.3935999 L21.4902315,10.3935999 C22.0402401,10.3935999 22.3002442,9.71483929 21.8914878,9.34608353 L11.8488308,0.308442319 C11.3925737,-0.102814106 10.6988129,-0.102814106 10.2425558,0.308442319 L0.199898834,9.34608353 C-0.208857553,9.71483929 0.0511465096,10.3935999 0.601155104,10.3935999 L2.63993696,10.3935999 L2.63993696,18.7999812 C2.63993696,19.4624916 3.17744536,20 3.83995571,20 L8.04377139,20 C8.37502657,20 8.64378077,19.7312458 8.64378077,19.3999906 L8.64378077,13.3961468 Z" id="Fill-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>
